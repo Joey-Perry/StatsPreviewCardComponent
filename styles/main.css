@@ -1,0 +1,42 @@
+.main-background {
+    background-color: hsl(233, 47%, 7%);
+    padding: 75px 25px;
+}
+
+.img-section {
+    display: flex;
+    align-items: center;
+    border: 2px solid red;
+}
+
+.img-section img {
+    border: 2px solid white;
+}
+
+.sales-copy-section {
+    color: white;
+}
+
+.heading {
+    font-size: 27px;
+    font-weight: 700;
+    margin-bottom: 10px;
+}
+
+.insights-word {
+    color: hsl(277, 64%, 61%);
+}
+
+.description {
+    line-height: 1.5;
+}
+
+.data-section {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.bolded-number-data {
+    margin-top: 15px;
+}
